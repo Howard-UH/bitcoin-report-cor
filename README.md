@@ -17,12 +17,12 @@
 #### 1. BTC vs VIX 報酬率散佈圖
 下圖顯示了比特幣與VIX指數日報酬率的關係，可以看到清晰的負向趨勢，相關係數為-0.228。
 
-![BTC vs VIX Scatter Plot](images/btc_vix_scatterplot.png)
+![BTC vs VIX Scatter Plot](btc_vix_scatterplot.png)
 
 #### 2. 其他散佈圖分析
 *(此處可以繼續放入其他您儲存的圖片)*
 
-![BTC vs DXY Scatter Plot](images/btc_dxy_scatterplot.png)
+![BTC vs DXY Scatter Plot](btc_dxy_scatterplot.png)
 
 ---
 
