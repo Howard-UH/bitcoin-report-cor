@@ -90,3 +90,9 @@
     * **[點此查看互動式報告](https://Howard-UH.github.io/bitcoin-report-cor/report.html)**
 * **/correlation-1.R**: 主要的R語言分析腳本。
 * **所有.png檔案**: 由R語言生成的視覺化圖表。
+
+---
+
+## 文件與使用指南
+- API 與元件參考：`docs/API.md`
+- 使用說明與範例：`docs/USAGE.md`
